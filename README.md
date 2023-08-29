@@ -20,6 +20,13 @@
     <p>🐈 Groot & Eevee 😺</p>
   </div>
 </section>
+<hr>
+<section align="center">
+  <p>
+    <img  height="40"  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
+    Check my works at <a href="https://github.com/pinto-andre?tab=repositories"> Repos </a> & <a href="https://www.linkedin.com/in/mpintoandre/"> LinkedIn </a>
+  </p>
+</section>
 
 
 
