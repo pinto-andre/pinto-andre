@@ -16,7 +16,9 @@
   <hr>
   <img src="https://i.pinimg.com/564x/63/6b/19/636b1949b10a0c035e32ac1db4eb416b.jpg"/>
   <div align="start">
-    <p>About myself? Anime & manga lover, nature and outdoors enthusiast, climbing and bonsais!</p>
+    <h4>About myself? </h4>
+    <p>Anime & manga lover, nature and outdoors enthusiast, climbing and bonsais!</p>
+    <p>Japanese culture and mythology enthusiast.</p>
     <p>🐈 Groot & Eevee 😺</p>
   </div>
 </section>
