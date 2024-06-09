@@ -14,7 +14,8 @@
 
 
 ## 💻 Ongoing Projects:
-At the moment I'm developing an informative web app with friends about nature and sustainability.
+- Taking care of exercism learning track in Python;
+- Deciding between crypto & stock tracker, or anime and manga.
 
 ## 💻 Projects:
 
