@@ -2,11 +2,11 @@
 ## Hi there! I'm André 🌲
 
 - 📍 From Portugal
-- 💻 Full-Stack Developer with background in forest management
+- 💻 Software developer with a background in forest management and bartending
 - 💡 Strong interest in sustainability, art, community development
 - 😄 Pronouns: He/Him
-- 🏃‍♂️ Hobbies: Gamming, anime & manga, playing music
-- ⚡ Fun fact: I make bonsais!
+- 🏃‍♂️ Hobbies: Gamming, sports, anime & manga and of course reading (I'm a bit of a geek)
+- ⚡ Fun fact: I make my own bonsais!
 <div align="center">
   <img width="300px" src="https://i.pinimg.com/564x/a1/e8/bf/a1e8bf587b980a4d9b52fbf5c1ea4140.jpg"/>
 </div>
@@ -14,8 +14,8 @@
 
 
 ## 💻 Ongoing Projects:
-- Taking care of exercism learning track in Python;
-- Deciding between crypto & stock tracker, or anime and manga.
+- Taking care of exercism learning track in Python, JavaScript, TypeScript and C#;
+- Making a toilets project and a games project!
 
 ## 💻 Projects:
 
